@@ -4,3 +4,4 @@ developer.mozilla.org
 .github.com
 .githubusercontent.com
 .githubassets.com
+.ubuntu.com

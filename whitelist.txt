@@ -1,0 +1,6 @@
+.wikipedia.org
+developer.mozilla.org
+portal.edu.gva.es
+.github.com
+.githubusercontent.com
+.githubassets.com

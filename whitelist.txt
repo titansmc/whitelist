@@ -6,3 +6,4 @@ developer.mozilla.org
 .githubassets.com
 .ubuntu.com
 .arruixaqueplou.org
+.github.io

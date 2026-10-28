@@ -7,3 +7,8 @@ developer.mozilla.org
 .ubuntu.com
 .arruixaqueplou.org
 .github.io
+.debian.org
+.ubuntu.com
+.pypi.org
+.pythonhosted.org
+.registry.npmjs.org

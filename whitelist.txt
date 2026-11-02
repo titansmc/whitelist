@@ -12,3 +12,6 @@ developer.mozilla.org
 .pypi.org
 .pythonhosted.org
 .registry.npmjs.org
+.dockerstatic.com
+.googleapis.com
+.cookielaw.org

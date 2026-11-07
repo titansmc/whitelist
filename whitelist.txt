@@ -16,3 +16,4 @@ developer.mozilla.org
 .googleapis.com
 .cookielaw.org
 .gstatic.com
+.pabpereza.dev

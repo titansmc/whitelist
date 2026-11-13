@@ -17,4 +17,5 @@ developer.mozilla.org
 .cookielaw.org
 .gstatic.com
 .pabpereza.dev
+.hcaptcha.com
 localhost

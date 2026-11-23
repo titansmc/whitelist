@@ -19,3 +19,5 @@ developer.mozilla.org
 .pabpereza.dev
 .hcaptcha.com
 localhost
+.lloc1.test
+.lloc2.test

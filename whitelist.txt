@@ -21,3 +21,4 @@ developer.mozilla.org
 localhost
 .lloc1.test
 .lloc2.test
+.bbc.co.uk
